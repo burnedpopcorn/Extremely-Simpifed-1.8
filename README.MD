@@ -10,4 +10,5 @@ https://burnedpopcorn.github.io/Client_Select.html
 You need to download the zip file, then go into Minecraft, then to resource packs, then open a file, select the .zip, then apply
 
 Original resource pack by Domobriks on PlanetMinecraft (called Simplified 1.8)
+
 Smaller Contributions by burnedpopcorn180
