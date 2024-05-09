@@ -2,6 +2,8 @@
 
 ![alt text](https://github.com/burnedpopcorn/Extremely-Simpifed-1.8/blob/main/pack.png?raw=true)
 
+(Update: I'm gonna Archive this because the Minimal Version of this pack is better. You can find it in my profile's pinned repos)
+
 This is a resouce/terxture pack that simplifies all textures for Minecraft 1.8 - 1.8.9
 - (This also can be used in EaglerCraft using any 1.8 client)
 - My own EaglerCraft Client hosting website can be found here:
